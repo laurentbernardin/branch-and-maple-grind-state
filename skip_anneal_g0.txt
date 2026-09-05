@@ -43,6 +43,7 @@ autocorr_bern20-15
 autocorr_bern35-35fix
 autocorr_bern45-11
 ball_mk2_30
+cardqp_iqp
 cecil_13
 chimera_k64ising-01
 chimera_lga-01
@@ -98,9 +99,9 @@ genpooling_meyer10
 ghg_1veh
 ghg_2veh
 graphpart_2pm-0044-0044
-graphpart_2pm-0077-0777
 graphpart_3g-0333-0333
 graphpart_3g-0334-0334
+graphpart_3pm-0234-0234
 graphpart_clique-50
 graphpart_clique-60
 johnall

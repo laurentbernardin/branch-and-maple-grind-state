@@ -42,6 +42,7 @@ QPLIB_7154
 autocorr_bern20-15
 autocorr_bern35-35fix
 autocorr_bern45-11
+ball_mk2_30
 cecil_13
 chimera_k64ising-01
 chimera_lga-01
@@ -99,6 +100,7 @@ ghg_2veh
 graphpart_2pm-0044-0044
 graphpart_3g-0333-0333
 graphpart_3g-0334-0334
+graphpart_3pm-0234-0234
 graphpart_clique-50
 graphpart_clique-60
 johnall
