@@ -39,6 +39,7 @@ QPLIB_7139
 QPLIB_7144
 QPLIB_7149
 QPLIB_7154
+autocorr_bern20-15
 autocorr_bern35-35fix
 autocorr_bern45-11
 cecil_13
@@ -149,6 +150,7 @@ supplychainr1_022020
 supplychainr1_030510
 telecomsp_njlata
 telecomsp_pacbell
+tln4
 tltr
 toroidal2g20_5555
 tspn05
