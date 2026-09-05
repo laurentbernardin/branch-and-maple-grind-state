@@ -54,6 +54,7 @@ clay0204m
 clay0205m
 color_lab2_4x0
 color_lab3_3x0
+crossdock_15x7
 crudeoil_li06
 crudeoil_li11
 crudeoil_pooling_dt1
@@ -98,6 +99,7 @@ milinfract
 no7_ar4_1
 no7_ar5_1
 nvs13
+nvs21
 o7_2
 o7_ar25_1
 o8_ar4_1
@@ -132,6 +134,7 @@ sonet24v2
 sonet24v5
 sonet25v5
 sonet25v6
+st_e38
 stockcycle
 super3t
 supplychainp1_022020
