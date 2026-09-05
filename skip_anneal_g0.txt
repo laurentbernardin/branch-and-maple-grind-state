@@ -96,9 +96,10 @@ genpooling_meyer10
 ghg_1veh
 ghg_2veh
 graphpart_2pm-0044-0044
+graphpart_2pm-0077-0777
 graphpart_3g-0333-0333
 graphpart_3g-0334-0334
-graphpart_3pm-0234-0234
+graphpart_clique-50
 graphpart_clique-60
 johnall
 lop97ic
