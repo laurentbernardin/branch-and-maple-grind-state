@@ -91,6 +91,7 @@ genpooling_meyer10
 ghg_1veh
 ghg_2veh
 graphpart_3g-0333-0333
+graphpart_3g-0334-0334
 graphpart_clique-60
 johnall
 lop97ic
@@ -140,6 +141,7 @@ sonet25v5
 sonet25v6
 st_e35
 st_e38
+st_test1
 st_test6
 st_testgr3
 stockcycle
