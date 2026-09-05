@@ -67,6 +67,7 @@ cvxnonsep_normcon20r
 cvxnonsep_normcon30
 cvxnonsep_nsig40
 cvxnonsep_nsig40r
+cvxnonsep_pcon30
 cvxnonsep_pcon30r
 cvxnonsep_psig20
 cvxnonsep_psig30

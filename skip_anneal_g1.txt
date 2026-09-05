@@ -70,6 +70,7 @@ cvxnonsep_pcon30
 cvxnonsep_pcon30r
 cvxnonsep_psig20
 cvxnonsep_psig30
+du-opt5
 eg_all_s
 eg_disc2_s
 eg_int_s
