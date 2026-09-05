@@ -101,6 +101,7 @@ pedigree_sp_top5_200
 pedigree_sp_top5_250
 qap
 qspp_0_10_0_1_10_1
+qspp_0_11_0_1_10_1
 qspp_0_12_0_1_10_1
 qspp_0_13_0_1_10_1
 qspp_0_14_0_1_10_1
