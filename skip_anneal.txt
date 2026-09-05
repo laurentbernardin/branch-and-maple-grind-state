@@ -42,6 +42,7 @@ QPLIB_7154
 autocorr_bern35-35fix
 autocorr_bern45-11
 cecil_13
+chimera_k64ising-01
 chimera_lga-02
 chimera_mgw-c16-2031-01
 chimera_mgw-c16-2031-02
@@ -91,6 +92,7 @@ ghg_2veh
 graphpart_clique-60
 johnall
 lop97ic
+m3
 m7
 maxcsp-ehi-85-297-71
 maxcsp-ehi-90-315-70
