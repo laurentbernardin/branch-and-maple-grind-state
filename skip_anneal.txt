@@ -44,6 +44,7 @@ autocorr_bern35-35fix
 autocorr_bern45-11
 cecil_13
 chimera_k64ising-01
+chimera_lga-01
 chimera_lga-02
 chimera_mgw-c16-2031-01
 chimera_mgw-c16-2031-02
@@ -57,6 +58,7 @@ clay0205m
 color_lab2_4x0
 color_lab3_3x0
 crossdock_15x7
+crossdock_15x8
 crudeoil_li06
 crudeoil_li11
 crudeoil_pooling_dt1

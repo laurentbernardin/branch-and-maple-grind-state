@@ -45,6 +45,7 @@ autocorr_bern45-11
 cardqp_iqp
 cecil_13
 chimera_k64ising-01
+chimera_lga-01
 chimera_lga-02
 chimera_mgw-c16-2031-01
 chimera_mgw-c16-2031-02
