@@ -64,6 +64,7 @@ cvxnonsep_nsig40r
 cvxnonsep_pcon30r
 cvxnonsep_psig20
 cvxnonsep_psig30
+eg_all_s
 eg_disc2_s
 eg_int_s
 ex3pb
@@ -140,6 +141,7 @@ supplychainr1_030510
 telecomsp_njlata
 telecomsp_pacbell
 tltr
+toroidal2g20_5555
 tspn05
 tspn15
 wastepaper3
