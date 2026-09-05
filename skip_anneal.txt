@@ -44,6 +44,7 @@ autocorr_bern45-11
 cecil_13
 chimera_lga-02
 chimera_mgw-c16-2031-01
+chimera_mgw-c16-2031-02
 chimera_mgw-c8-507-onc8-01
 chimera_mgw-c8-507-onc8-02
 chimera_rfr-02
@@ -95,6 +96,7 @@ maxcsp-langford-3-11
 milinfract
 no7_ar4_1
 no7_ar5_1
+nvs13
 o7_2
 o7_ar25_1
 o8_ar4_1
