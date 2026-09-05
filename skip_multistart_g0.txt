@@ -13,6 +13,7 @@ QPLIB_10056
 QPLIB_10057
 QPLIB_10058
 QPLIB_10060
+QPLIB_10061
 QPLIB_10062
 QPLIB_10063
 QPLIB_10064
@@ -103,6 +104,7 @@ graphpart_3g-0334-0334
 graphpart_3pm-0234-0234
 graphpart_clique-50
 graphpart_clique-60
+indus04_h1_1
 johnall
 lop97ic
 m3
