@@ -22,6 +22,7 @@ chimera_mgw-c8-507-onc8-02
 chimera_rfr-02
 chimera_selby-c8-onc8-01
 chimera_selby-c8-onc8-02
+clay0204m
 clay0205m
 color_lab2_4x0
 color_lab3_3x0
@@ -57,6 +58,7 @@ gastrans582_cold17_95
 gastrans582_warm15_95
 gastrans582_warm31_95
 gear2
+genpooling_meyer04
 genpooling_meyer10
 ghg_1veh
 ghg_2veh
@@ -67,6 +69,7 @@ graphpart_3g-0334-0334
 graphpart_3pm-0234-0234
 graphpart_clique-50
 graphpart_clique-60
+johnall
 lop97ic
 m3
 m7
@@ -79,9 +82,11 @@ milinfract
 no7_ar5_1
 nvs13
 nvs21
+o7_2
 o7_ar5_1
 o8_ar4_1
 p_ball_10b_5p_2d_m
+p_ball_10b_5p_3d_m
 p_ball_10b_5p_4d_h
 p_ball_15b_5p_2d_h
 p_ball_15b_5p_2d_m
@@ -124,6 +129,7 @@ telecomsp_njlata
 telecomsp_pacbell
 tln4
 tln5
+tltr
 toroidal2g20_5555
 tspn05
 tspn15
