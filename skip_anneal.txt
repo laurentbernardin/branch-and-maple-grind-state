@@ -61,6 +61,7 @@ crudeoil_li06
 crudeoil_li11
 crudeoil_pooling_dt1
 crudeoil_pooling_dt2
+cvxnonsep_normcon20r
 cvxnonsep_normcon30
 cvxnonsep_nsig40
 cvxnonsep_nsig40r
@@ -88,6 +89,7 @@ gastrans582_cold13
 gastrans582_cold17_95
 gastrans582_warm15_95
 gastrans582_warm31_95
+gear2
 genpooling_meyer04
 genpooling_meyer10
 ghg_1veh

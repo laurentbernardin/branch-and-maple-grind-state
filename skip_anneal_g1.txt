@@ -63,6 +63,7 @@ crudeoil_li06
 crudeoil_li11
 crudeoil_pooling_dt1
 crudeoil_pooling_dt2
+cvxnonsep_normcon20r
 cvxnonsep_normcon30
 cvxnonsep_nsig40
 cvxnonsep_nsig40r
